@@ -1,4 +1,4 @@
-\# SQL Practice
+# SQL Practice
 
 
 
@@ -6,7 +6,7 @@ My SQL practice and learning projects as I work towards becoming a data analyst.
 
 
 
-\## About
+## About
 
 
 
@@ -14,21 +14,21 @@ I am learning SQL, Excel and Power BI to build a career in data analysis.
 
 
 
-\## Skills practised
+## Skills practised
 
 
 
-\- SELECT, WHERE, ORDER BY
+- SELECT, WHERE, ORDER BY
 
-\- JOINs
+- JOINs
 
-\- GROUP BY and aggregate functions
-
-
-
-\## Files
+- GROUP BY and aggregate functions
 
 
 
-\- `hello.sql` - my first SQL file
+## Files
+
+
+
+- `hello.sql` - my first SQL file
 

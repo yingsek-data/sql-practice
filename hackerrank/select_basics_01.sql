@@ -1,0 +1,7 @@
+-- Platform: HackerRank
+-- Topic: Basic SELECT
+-- Date: 2026-11-19
+
+SELECT *
+FROM CITY
+WHERE POPULATION > 100000 AND COUNTRYCODE = 'USA';

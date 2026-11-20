@@ -1,5 +1,5 @@
 -- Platform: HackerRank
--- Topic: SQL_Basic_Basic SELECT
+-- Topic: SQL_Basic_Basic_Select
 -- Date: 2026-11-19
 
 SELECT *
